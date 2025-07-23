@@ -1,0 +1,9 @@
+{
+  "accountName": "my-test-account",
+  "description": "Testing my unified app",
+  "marketingLevel": "PROFESSIONAL",
+  "opsLevel": "PROFESSIONAL",
+  "serviceLevel": "PROFESSIONAL",
+  "salesLevel": "PROFESSIONAL",
+  "contentLevel": "PROFESSIONAL"
+}
