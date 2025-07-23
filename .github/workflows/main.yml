@@ -11,4 +11,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.3
       - name: HubSpot Project Upload Action
-        uses: HubSpot/hubspot-project-actions/project-upload@v0.0.1
+        uses: HubSpot/hubspot-project-actions/project-upload@main
