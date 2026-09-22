@@ -2,7 +2,7 @@
   "uid": "my_unified_app",
   "type": "app",
   "config": {
-    "description": "An example to demonstrate how to build a public app with developer projects.",
+    "description": "An example to demonstrate how to build a public app with developer projects test.",
     "name": "my unified app",
     "logo": "/app/app-logo.jpg",
     "distribution": "marketplace",
